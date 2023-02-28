@@ -34,7 +34,7 @@ Assista com áudio</a></h4>
 - [x] Trilha sonora
 - [x] Cronômetro
 - [x] Obstáculos diferentes
-- [x ] Refatoração no designer
+- [ ] Refatoração no designer
 - [ ] Tela de start
 - [ ] Contagem no game over
 - [ ] Responsividade
@@ -66,4 +66,4 @@ Dedico ao meu amigo ❤️ Jorge Luiz
 [![Gmail Badge](https://img.shields.io/badge/-allisson.lima.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allisson.lima.dev@gmail.com)](mailto:allisson.lima.dev@gmail.com)
 
 
-Co-authored-by: Allisson-Lima-Dev <allisson.lima.dev@gmail.com>
+
